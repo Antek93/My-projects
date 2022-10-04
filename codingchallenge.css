@@ -1,0 +1,111 @@
+body {
+  background-image: url("booleanbackground.jpg");
+  background-size: cover;
+  background-color: white;
+
+
+}
+
+.Topcontainer {
+  width: 600px;
+  margin: auto;
+  background-position: center;
+}
+
+.Logo {
+  width: 280px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 85px;
+
+}
+
+div>header {
+  color: #00dd00;
+  font-size: 40px;
+  font-family: Comic Neue, Serif;
+  text-align: center;
+  font-weight: bold;
+}
+
+nav{
+  text-align: center;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  background-color: #00dd00;
+}
+
+.centralcontainer {
+width: 650px;
+height: 390px;
+margin: auto;
+background-position: center;
+}
+
+main{
+  margin-top: 20px;
+  font-family: Comic Neue, Serif;
+}
+
+.Prodotti{
+  font-size: 18px;
+  display: inline-block;
+  color: white;
+  font-weight: bold;
+}
+
+.Posizione-prodotto {
+  margin-left: 0%;
+  padding-bottom: 0px;
+  color: white;
+  font-size: 12px;
+
+
+}
+
+.Stato-carica{
+  margin-left: 0%;
+  color: white;
+  font-size: 15px;
+}
+
+#Stato-barra1 {
+  background-color: #f8b454;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  width: 300px;
+  height: 25px;
+  background-position: left;
+  border-radius: 5px;
+  display: block;
+}
+
+#Stato-barra2 {
+  background-color: #00dd00;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  width: 435px;
+  height: 25px;
+  background-position: left;
+  border-radius: 5px;
+  display: block;
+}
+
+#Stato-barra3 {
+  background-color: #c04844;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  width: 122px;
+  height: 25px;
+  background-position: left;
+  border-radius: 5px;
+  display: block;
+}
+
+#wrapper {
+  width: 762px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  margin: auto;
+}
