@@ -34,19 +34,23 @@ header > div {
   font-weight: bold;
 }
 
+
+header h1 {
+  color: white;
+  font-size: 25px;
+  font-family: Comic Neue, Serif;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+
 nav {
   text-align: center;
   padding-top: 2px;
   padding-bottom: 2px;
-  background-color: #00dd00;
 }
 
-.centralcontainer {
-width: 650px;
-height: 390px;
-margin: auto;
-background-position: center;
-}
 
 main{
   margin-top: 20px;
@@ -73,6 +77,17 @@ main{
   color: white;
   font-size: 15px;
 }
+
+.vehicle-list {
+  margin-left: 10px;
+  color: white;
+}
+
+.vehicle {
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+
 
 #Stato-barra1 {
   background-color: #f8b454;
